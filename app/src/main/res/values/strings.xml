@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
+    <string name="MyName">Kirtan</string>
+    <string name="TeacherName">Mrs.Denna</string>
+    <string name="ClassPeriod">1st</string>
+
 </resources>
