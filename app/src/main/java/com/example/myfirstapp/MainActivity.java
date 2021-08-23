@@ -25,8 +25,8 @@ public class MainActivity extends AppCompatActivity {
      */
 
     public void makeName(View v){
-        EditText firstnameET = findViewById(R.id.firstNameEditText);
-        EditText lastnameET = findViewById(R.id.lastNameEditText);
+        EditText firstNameET = findViewById(R.id.firstNameEditText);
+        EditText lastNameET = findViewById(R.id.lastNameEditText);
 
         String firstName = firstNameET.getText().toString();
         String lastName = lastNameET.getText().toString();
